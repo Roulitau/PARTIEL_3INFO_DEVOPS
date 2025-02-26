@@ -1,5 +1,11 @@
 # Partiel DEVOPS - Exemple avec Python et GitHub Actions
 
+
+## Badges
+![Test Status](https://github.com/Roulitau/PARTIEL_3INFO_DEVOPS/actions/workflows/test.yml/badge.svg)
+![Lint Status](https://github.com/Roulitau/PARTIEL_3INFO_DEVOPS/actions/workflows/linter.yml/badge.svg)
+
+
 Ce dépôt contient un projet Python simple avec :
 
 - Des fonctions simples
