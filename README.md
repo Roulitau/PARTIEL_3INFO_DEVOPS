@@ -2,8 +2,8 @@
 
 
 ## Badges
-![Test Status](https://github.com/Roulitau/PARTIEL_3INFO_DEVOPS/actions/workflows/test-linter.yml/badge.svg)
-![Lint Status](https://github.com/Roulitau/PARTIEL_3INFO_DEVOPS/actions/workflows/test-linter.yml/badge.svg)
+![Test Status](https://github.com/Roulitau/PARTIEL_3INFO_DEVOPS/actions/workflows/test.yml/badge.svg)
+![Lint Status](https://github.com/Roulitau/PARTIEL_3INFO_DEVOPS/actions/workflows/linter.yml/badge.svg)
 
 
 Ce dépôt contient un projet Python simple avec :
